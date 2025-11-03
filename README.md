@@ -1,4 +1,4 @@
 # Demo_repo
 First Github repositary 
 <br>
-Author - Samarth Prasad
+Author - Samarth Manoj Prasad
